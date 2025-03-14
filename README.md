@@ -1,5 +1,7 @@
-슬라이드에는 쉽게 읽을 수 있도록 용어를 풀어썼습니다. 
-컴퓨팅 자원은 프로세스 이며, 해당 레포지토리에서 자원1: oms_listener, 자원2: krx_sender, 자원3: krx_listener, 자원4: db_updator 에 해당됩니다. 
+<h2 style="font-family: 'Comic Sans MS', cursive, sans-serif; color: #6A5ACD;">
+이 프로젝트는 '간단한 매매시스템 만들기' 이며, 주식거래 할때 사용하는 증권사 MTS의 축소판입니다. 
+슬라이드에서 '컴퓨팅 자원'은 프로세스 이며, 자원 1,2,3,4는 각각 repository 의 oms_listener, krx_sender, krx_listener, db_updator 에 해당됩니다. 
+</h2>
 ![](./include/img/slide1.png)
 ![](./include/img/slide2.png)
 ![](./include/img/slide3.png)
